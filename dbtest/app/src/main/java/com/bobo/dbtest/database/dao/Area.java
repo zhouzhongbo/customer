@@ -4,7 +4,7 @@ package com.bobo.dbtest.database.dao;
  * Created by zzb on 2017/11/29.
  */
 
-public class Area {
+public class Area extends BaseObject{
     //省
     String province;
     //市
